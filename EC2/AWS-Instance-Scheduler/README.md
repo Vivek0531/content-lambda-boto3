@@ -1,5 +1,5 @@
 # AWS Instance Scheduler
-
+Added 
 The AWS Instance Scheduler is a solution that automates the starting and stopping of EC2 and RDS instances.
 
 The Instance Scheduler leverages resource tags and Lambda to automatically stop and restart instances across multiple AWS Regions and accounts on a customer-defined schedule.
